@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=devagarwal007&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devagarwal007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devagarwal007)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **devagarwal007/devagarwal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
